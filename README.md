@@ -17,5 +17,8 @@ This project was created as a learning exercise to practice C# fundamentals such
 - methods and structs
 - basic game logic
 
+## Requirements
+- .NET 9.0
+  
 ## How to run
 Run the application as a standard C# console app.
